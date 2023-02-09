@@ -19,6 +19,7 @@ hassle free for the students as well as the teachers.
 - Notifications
 - Bookmarks
 - Can view pdf and images in app
+- Shareable external links
 
 
 ## Tech Stack
