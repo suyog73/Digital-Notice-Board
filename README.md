@@ -34,6 +34,9 @@ hassle free for the students as well as the teachers.
 This application is used by more than 60 users of our
 college
 
+## Download Link
+https://drive.google.com/file/d/1RCTSzvuz-_hu6I0RTIIiE-aoUKezhraF/view?usp=sharing
+
 
  ## Authentication
  Login - Register Page  | Email-Authentication Page
